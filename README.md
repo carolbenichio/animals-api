@@ -1,12 +1,11 @@
-## Animals API
+## Animals API 🦁🦓🐵
 
 Nesse projeto, trabalhamos os conceitos de orientação a objetos, reutilização de código, clean code e o entendimento sobre a arquitetura de um projeto .net. 
 
 Essa solução contém dois projetos:
 
--> Api -> Carol.Api
-
--> Commons -> Carol.Commons
+- Api -> Carol.Api
+- Commons -> Carol.Commons
 
 Para esse desafio vamos criar um controller que tem a finalidade de retornar uma lista de 20 animais diferentes, cada uma com suas características.
 Vamos retornar os seguintes animais e suas particularidades:
