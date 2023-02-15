@@ -5,6 +5,7 @@ Nesse projeto, trabalhamos os conceitos de orientação a objetos, reutilizaçã
 Essa solução contém dois projetos:
 
 -> Api -> Carol.Api
+
 -> Commons -> Carol.Commons
 
 Para esse desafio vamos criar um controller que tem a finalidade de retornar uma lista de 20 animais diferentes, cada uma com suas características.
