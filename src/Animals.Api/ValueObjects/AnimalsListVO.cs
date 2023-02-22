@@ -1,6 +1,6 @@
-using BizCap.Carol.Commons.ValueObjects;
+using Animals.Commons.ValueObjects;
 
-namespace BizCap.Carol.Api.ValueObjects;
+namespace Animals.Api.ValueObjects;
 
 public class AnimalsListVO
 {
