@@ -95,10 +95,9 @@ Example:
 
 Hot to use it?
 
-POST:
+- POST
 Feel free to use Postman or Insomnia! Make sure to send your JSON to ```http://localhost:5040/animals```.
 
-Example: 
 
 ```
 {
@@ -107,8 +106,8 @@ Example:
 }
 ``` 
 
-GET:
-Output at ```http://localhost:5040/animals```: 
+- GET
+Output at ```http://localhost:5040/animals```
 
 ![image](https://user-images.githubusercontent.com/78769105/220753905-e33cba7f-b6ae-483c-8ccc-0051c7685034.png)
 
